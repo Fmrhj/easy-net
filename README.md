@@ -1,2 +1,2 @@
 # easy-net
-Experimenting with easy network: problem multiple edges in a bigger network
+Experimenting with [networkx](https://networkx.github.io/): problem multiple edges in a bigger network
